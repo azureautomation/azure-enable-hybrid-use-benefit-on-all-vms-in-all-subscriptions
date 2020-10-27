@@ -1,0 +1,20 @@
+{
+    "Author": "Neil Bird [Msft]",
+    "ContentSize": 30388,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-enable-hybrid-use-benefit-on-all-vms-in-all-subscriptions/master/azure-enable-hybrid-use-on-all-vms.ps1",
+    "DownloadCount": 1890,
+    "Id": "Azure-Enable-Hybrid-Use-1977e089",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 69,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2018-3-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "Not Defined",
+    "Summary": "PowerShell script to automate Enabling Azure Hybrid Use Benefit on All Windows VMs in All Subscriptions. The default mode for the script is \"Simulate Mode\", where no changes are made and Log and CSV Export files are generated, this shows \"What changes the  script would make\" if y",
+    "Title": "Azure - Enable Hybrid Use Benefit On All VMs in All Subscriptions",
+    "UpdatedDate": "2018-10-17T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-enable-hybrid-use-benefit-on-all-vms-in-all-subscriptions",
+    "UserTags": "Microsoft Azure, cost optimization"
+}
